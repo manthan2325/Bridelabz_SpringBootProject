@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7334dbfa-f9aa-477f-aa7b-568a16c91765" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "manthan2325"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/manthan2325/Bridelabz_SpringBootProject.git",
+    "accountId": "38059dd5-41fe-491e-a1a2-2db0ff30b6ad"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.011891700087834" />
+      <entry key="MS500" value="1.6985365599950273" />
+      <entry key="S2" value="5.965341333694961" />
+      <entry key="S5" value="14.004015527917417" />
+      <entry key="S10" value="24.091153752536645" />
+      <entry key="S30" value="47.77042134712176" />
+      <entry key="S60" value="70.10778897786739" />
+      <entry key="M2" value="104.89484802301962" />
+      <entry key="M5" value="186.14999922610565" />
+      <entry key="M10" value="259.3682223626684" />
+      <entry key="M15" value="300.26616735663663" />
+      <entry key="M30" value="366.66783689422897" />
+      <entry key="H1" value="438.5425394627857" />
+      <entry key="H2" value="516.9843976711812" />
+      <entry key="H4" value="584.6145263455373" />
+      <entry key="D1" value="668.1180563120006" />
+      <entry key="W1" value="685.9156042665728" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.7498696488589316E-287" />
+      <entry key="S2" value="2.2899606884052416E-72" />
+      <entry key="S5" value="2.207655028049759E-29" />
+      <entry key="S10" value="4.698568960917541E-15" />
+      <entry key="S30" value="1.6748986934797612E-5" />
+      <entry key="S60" value="0.004093266731767598" />
+      <entry key="M2" value="0.06578955184296142" />
+      <entry key="M5" value="0.7581844442715807" />
+      <entry key="M10" value="3.869939462328988" />
+      <entry key="M15" value="7.6389603990354935" />
+      <entry key="M30" value="17.64893988253593" />
+      <entry key="H1" value="34.31736166370315" />
+      <entry key="H2" value="57.22632547895928" />
+      <entry key="H4" value="79.05828418868303" />
+      <entry key="D1" value="107.63290925229512" />
+      <entry key="W1" value="113.90675209293903" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.1325361698673014" />
+      <entry key="MS500" value="1.1542764497304732" />
+      <entry key="S2" value="5.724428015379166" />
+      <entry key="S5" value="13.884762785554239" />
+      <entry key="S10" value="24.02089373522228" />
+      <entry key="S30" value="47.72108761594005" />
+      <entry key="S60" value="70.0643043291733" />
+      <entry key="M2" value="104.92152117226199" />
+      <entry key="M5" value="186.87908348876007" />
+      <entry key="M10" value="263.20484952234654" />
+      <entry key="M15" value="307.8674987809803" />
+      <entry key="M30" value="384.27624755725543" />
+      <entry key="H1" value="472.8214736641808" />
+      <entry key="H2" value="574.1793945917154" />
+      <entry key="H4" value="663.65148841892" />
+      <entry key="D1" value="775.7461969977801" />
+      <entry key="W1" value="799.821637405011" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3Lo1qMp2MFszDDffOmu5WP4Bsut" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.Main.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/manthan/Documents/BL_SpringBootPratical",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/manthan/Documents/BL_SpringBootPratical/demo/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.200" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7334dbfa-f9aa-477f-aa7b-568a16c91765" name="Changes" comment="" />
+      <created>1794105797283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794105797283</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
